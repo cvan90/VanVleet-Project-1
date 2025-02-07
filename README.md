@@ -8,7 +8,7 @@
 - css 
 - bootstrap 
 # github code repository
-- 
+- https://github.com/cvan90/Vanvleet-Project-1.git
 # github website url 
 - https://cvan90.github.io/Vanvleet-Project-1/
 # future improvements 
