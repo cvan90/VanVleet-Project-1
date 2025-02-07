@@ -8,9 +8,9 @@
 - css 
 - bootstrap 
 # github code repository
-- https://github.com/cvan90/VanVleets-Class-repository-1.git
+- 
 # github website url 
-- https://cvan90.github.io/VanVleets-Class-repository-1/
+- https://cvan90.github.io/Vanvleet-Project-1/
 # future improvements 
 - add responsive navigation menu 
 - add bootstrap tabs 
